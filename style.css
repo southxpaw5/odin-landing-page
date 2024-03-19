@@ -49,8 +49,23 @@ ul {
 
 .main {
     display: flex;
+    padding: 75px 0;
 }
 
 img {
     max-height: 200px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size:15px;
+    font-weight:bold;
+    padding: 5px 1px;
+    border-radius: 5px;
+    border: #3882f6;
+    margin-top: 12px;
+    width: 120px;
+    height:30px;
+    text-align: center;
 }
