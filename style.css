@@ -92,3 +92,18 @@ button {
     font-weight: 900;
     text-align: center;
 }
+
+.section .container {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    gap: 50PX;
+}
+
+.subtext {
+    text-align: center;
+}
+
+img { 
+    border-radius: 5px;
+}
