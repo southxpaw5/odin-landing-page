@@ -6,11 +6,33 @@
 .header {
     background-color: #1f2937;
 }
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.title {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+
+}
+
+p {
+    font-size: 18px;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
 a {
     text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 
 ul {
     list-style-type: none;
+    
 }
