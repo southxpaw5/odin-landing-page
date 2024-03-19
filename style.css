@@ -1,4 +1,5 @@
 * {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 0;
     margin: 0;
 }
@@ -21,6 +22,7 @@
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: 700;
 }
 
 .title {
@@ -50,6 +52,7 @@ ul {
 .main {
     display: flex;
     padding: 75px 0;
+    gap:30px;
 }
 
 img {
