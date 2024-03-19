@@ -5,6 +5,7 @@
 
 .header {
     background-color: #1f2937;
+    padding: 25px 200px;
 }
 
 .header .container { 
@@ -26,7 +27,6 @@
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
-
 }
 
 p {
@@ -45,4 +45,12 @@ a {
 ul {
     list-style-type: none;
     
+}
+
+.main {
+    display: flex;
+}
+
+img {
+    max-height: 200px;
 }
