@@ -143,11 +143,11 @@ button {
  .contact-container {
      display: flex;
      background-color: #3883f6;
-     padding: 50px 150px;
+     padding: 35px 150px;
      justify-content: space-between;
      border-radius: 10px;
      color: #e5e7eb;
-     font-size: 18px;
+     font-size: 16px;
  }
  
  .contact-info .call {
