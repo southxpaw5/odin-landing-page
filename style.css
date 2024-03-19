@@ -128,3 +128,37 @@ img {
     font-weight: 600;
     align-self:flex-end
 }
+
+.contact {
+    padding: 50px 90px;
+ }
+ 
+ .contact-container {
+     display: flex;
+     background-color: #3883f6;
+     padding: 50px 150px;
+     justify-content: space-between;
+     border-radius: 10px;
+     color: #e5e7eb;
+     font-size: 18px;
+ }
+ 
+ .contact-info .call {
+     font-size: 24px;
+     font-weight: 700;
+     color: white
+ }
+ 
+ .sign {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size:15px;
+    font-weight:bold;
+    padding: 5px 1px;
+    border-radius: 5px;
+    border: white solid;
+    margin-top: 12px;
+    width: 120px;
+    height:40px;
+    text-align: center;
+ }
